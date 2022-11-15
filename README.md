@@ -63,4 +63,4 @@ resource "aws_key_pair" "deployer" {
 
 3. І запустив сервер Apache.
 
-![screen](screen4/screen2.png)
+![screen](screen4/screen2.jpg)
