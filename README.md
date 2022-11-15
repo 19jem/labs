@@ -1,7 +1,7 @@
 # lab3
 1.	Використання готових Docker Images
 Створюю файл compose.yml в якому записую всі залежності за інстукцією для wordpress з Docker Hub
- ![](../screen1.png)
+ ![screen](../screen1.png)
 
 І переношу це в compose.yml
 
